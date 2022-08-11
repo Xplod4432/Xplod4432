@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xplod4432
 - 👀 I’m interested in Ethical Hacking and exploring
-- 🌱 I’m currently learning Computer Science and Engineering
+- 🌱 I’m currently the Community Lead at GDSC - LPU
 - 💞️ I’m looking to collaborate on Pentesting tools
 - 📫 How to reach me https://www.linkedin.com/in/tushar-vilekar-8556701b3/
 
