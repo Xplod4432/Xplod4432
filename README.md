@@ -19,8 +19,8 @@
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-tusharvilekar-8556701b3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tusharvilekar-8556701b3/)](https://www.linkedin.com/in/tusharvilekar-8556701b3/) 
-[![Twitter Badge](https://img.shields.io/badge/-@@TVilekar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/@TVilekar)](https://twitter.com/@TVilekar) 
+[![Linkedin Badge](https://img.shields.io/badge/-tusharvilekar-8556701b3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tushar-vilekar-8556701b3/)](https://www.linkedin.com/in/tushar-vilekar-8556701b3/) 
+[![Twitter Badge](https://img.shields.io/badge/-@TVilekar-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/TVilekar)](https://twitter.com/TVilekar) 
 [![Facebook Badge](https://img.shields.io/badge/-tushar.vilekar.5-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/tushar.vilekar.5)](https://www.facebook.com/tushar.vilekar.5) 
 [![Instagram Badge](https://img.shields.io/badge/-@tushar_vilekar-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tushar_vilekar)](https://www.instagram.com/tushar_vilekar) 
 
