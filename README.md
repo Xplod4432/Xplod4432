@@ -9,11 +9,11 @@
 
 ### Software engineer with the spirit of an explorer and the curiosity of a 5-year-old <br>
 
-- 👨‍🏭 I’m currently pursuing **B.Tech from Lovely Professional University** <br>
-- 🏫 I’m currently learning **Artifical Intelligence and Machine Learning** <br>
-- 🙌 I’m looking to collaborate on **Natural Language Processing, Cloud Computing** <br>
-- 🤔 I’m looking for help with **Web Development, Machine Learning and Competitive Programming**<br>
-- 🥅 2023 Goals: **Expand my knowledge in NLP and Cloud** <br>
+- 👨‍🏭 I’m currently working as a **Tools Dev Engineer NVIDIA** <br>
+- 🏫 I’m currently learning **Deep Learning, Backend Development and System Design** <br>
+- 🙌 I’m looking to collaborate on **Natural Language Processing, Cloud Computing, Image Processing, Backend Development and IoT** <br>
+- 🤔 I’m looking for help with **Image Processing, Backend Development and Competitive Programming**<br>
+- 🥅 2024 Goals: **Expand my knowledge in Backend Development, System Design and PyTorch** <br>
 
 
 ### 🕵 Take a look at my repositories and let's get in touch!<br>
